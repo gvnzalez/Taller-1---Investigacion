@@ -1,0 +1,2 @@
+Patrón Módulo: Con este patrón podemos encapsular toda la lógica de nuestra aplicación, 
+ya que dentro del módulo estarán declaradas todas las variables y métodos.
